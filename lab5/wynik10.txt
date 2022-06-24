@@ -1,0 +1,27 @@
+{ [14 bytes data]
+100    14  100    14    0     0   8652      0 --:--:-- --:--:-- --:--:-- 14000
+* Connection #0 to host localhost left intact
+root@max-virtual-machine:/home/max# curl -i -v -XDELETE http://localhost:8098/types/default/buckets/s24209/keys/zad8
+*   Trying 127.0.0.1:8098...
+* Connected to localhost (127.0.0.1) port 8098 (#0)
+> DELETE /types/default/buckets/s24209/keys/zad8 HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.83.1
+> Accept: */*
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 204 No Content
+HTTP/1.1 204 No Content
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+< Date: Thu, 23 Jun 2022 17:55:19 GMT
+Date: Thu, 23 Jun 2022 17:55:19 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 0
+Content-Length: 0
+
+< 
+* Connection #0 to host localhost left intact

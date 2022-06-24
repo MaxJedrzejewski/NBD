@@ -1,0 +1,19 @@
+Zadanie1:
+MATCH shortest = shortestPath((town{name: "Darjeeling"})-[*]-(peak{name:"Sandakphu"}))RETURN shortest, length(shortest)
+
+Zadanie2:
+MATCH shortest = shortestPath((town{name: "Darjeeling"})-[*]-(peak{name:"Sandakphu"})) WHERE ALL(shortestPath in relationships(shortest) WHERE shortestPath.winter = "true") RETURN shortest
+
+Zadanie3: 
+MATCH roads=(n{name:"Darjeeling"})-[*]->(m{name:"Sandakphu"}) 
+WHERE ALL(route in relationships(roads) WHERE route.winter = "true") 
+WITH roads,reduce(totalDistance = 0, r IN relationships(roads) | totalDistance + r.distance) AS totalDistance RETURN roads,totalDistance ORDER By totalDistance
+
+Zadanie 4
+MATCH rower = (n{name:"Rimbik"})-[:twowheeler* {summer:"true"}]->(m) RETURN n, m
+
+Zadanie 5:
+MATCH (n:Airport)<-[:ORIGIN]-(m:Flight) RETURN n.name AS airport, count(m) AS flights ORDER BY flights DESC
+
+
+W kolejnych zadaniach mam problem ze złożeniem zapytania przez wyskakujące błędy

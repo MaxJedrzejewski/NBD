@@ -1,0 +1,586 @@
+[
+        {
+                "_id" : "SRD",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 5286.68,
+                        "avarage" : 5286.68
+                }
+        },
+        {
+                "_id" : "XOF",
+                "value" : {
+                        "qty" : 3,
+                        "balance" : 17882.05,
+                        "avarage" : 5960.68
+                }
+        },
+        {
+                "_id" : "CUP",
+                "value" : {
+                        "qty" : 3,
+                        "balance" : 15017.34,
+                        "avarage" : 5005.78
+                }
+        },
+        {
+                "_id" : "ZAR",
+                "value" : {
+                        "qty" : 3,
+                        "balance" : 11790.92,
+                        "avarage" : 3930.31
+                }
+        },
+        {
+                "_id" : "BGN",
+                "value" : {
+                        "qty" : 4,
+                        "balance" : 21200.88,
+                        "avarage" : 5300.22
+                }
+        },
+        {
+                "_id" : "YER",
+                "value" : {
+                        "qty" : 3,
+                        "balance" : 13712.5,
+                        "avarage" : 4570.83
+                }
+        },
+        {
+                "_id" : "RSD",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 4276.56,
+                        "avarage" : 4276.56
+                }
+        },
+        {
+                "_id" : "VUV",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 6418.27,
+                        "avarage" : 6418.27
+                }
+        },
+        {
+                "_id" : "MXN",
+                "value" : {
+                        "qty" : 10,
+                        "balance" : 50229,
+                        "avarage" : 5022.9
+                }
+        },
+        {
+                "_id" : "ARS",
+                "value" : {
+                        "qty" : 5,
+                        "balance" : 23242,
+                        "avarage" : 4648.4
+                }
+        },
+        {
+                "_id" : "ALL",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 3325.48,
+                        "avarage" : 3325.48
+                }
+        },
+        {
+                "_id" : "GTQ",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 5806.3,
+                        "avarage" : 5806.3
+                }
+        },
+        {
+                "_id" : "MGA",
+                "value" : {
+                        "qty" : 3,
+                        "balance" : 14560.99,
+                        "avarage" : 4853.66
+                }
+        },
+        {
+                "_id" : "CLP",
+                "value" : {
+                        "qty" : 4,
+                        "balance" : 21008.95,
+                        "avarage" : 5252.24
+                }
+        },
+        {
+                "_id" : "BRL",
+                "value" : {
+                        "qty" : 11,
+                        "balance" : 49632.02,
+                        "avarage" : 4512
+                }
+        },
+        {
+                "_id" : "RUB",
+                "value" : {
+                        "qty" : 24,
+                        "balance" : 119749.15,
+                        "avarage" : 4989.55
+                }
+        },
+        {
+                "_id" : "PYG",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 4874.69,
+                        "avarage" : 4874.69
+                }
+        },
+        {
+                "_id" : "BYR",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 5095.79,
+                        "avarage" : 5095.79
+                }
+        },
+        {
+                "_id" : "KYD",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 3760.89,
+                        "avarage" : 3760.89
+                }
+        },
+        {
+                "_id" : "XPF",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 4759.07,
+                        "avarage" : 4759.07
+                }
+        },
+        {
+                "_id" : "USD",
+                "value" : {
+                        "qty" : 15,
+                        "balance" : 74680.98,
+                        "avarage" : 4978.73
+                }
+        },
+        {
+                "_id" : "NOK",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 4773.66,
+                        "avarage" : 4773.66
+                }
+        },
+        {
+                "_id" : "MKD",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 3835.05,
+                        "avarage" : 3835.05
+                }
+        },
+        {
+                "_id" : "CZK",
+                "value" : {
+                        "qty" : 8,
+                        "balance" : 37156.42,
+                        "avarage" : 4644.55
+                }
+        },
+        {
+                "_id" : "IDR",
+                "value" : {
+                        "qty" : 66,
+                        "balance" : 323922.59,
+                        "avarage" : 4907.92
+                }
+        },
+        {
+                "_id" : "MAD",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 3818.85,
+                        "avarage" : 3818.85
+                }
+        },
+        {
+                "_id" : "PLN",
+                "value" : {
+                        "qty" : 18,
+                        "balance" : 90770.78,
+                        "avarage" : 5042.82
+                }
+        },
+        {
+                "_id" : "TZS",
+                "value" : {
+                        "qty" : 2,
+                        "balance" : 7052.37,
+                        "avarage" : 3526.19
+                }
+        },
+        {
+                "_id" : "EUR",
+                "value" : {
+                        "qty" : 50,
+                        "balance" : 245091.47,
+                        "avarage" : 4901.83
+                }
+        },
+        {
+                "_id" : "TJS",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 4087.71,
+                        "avarage" : 4087.71
+                }
+        },
+        {
+                "_id" : "BWP",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 4076.29,
+                        "avarage" : 4076.29
+                }
+        },
+        {
+                "_id" : "ETB",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 5436.11,
+                        "avarage" : 5436.11
+                }
+        },
+        {
+                "_id" : "IQD",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 4269.39,
+                        "avarage" : 4269.39
+                }
+        },
+        {
+                "_id" : "AFN",
+                "value" : {
+                        "qty" : 3,
+                        "balance" : 16755.49,
+                        "avarage" : 5585.16
+                }
+        },
+        {
+                "_id" : "ZWL",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 5792.17,
+                        "avarage" : 5792.17
+                }
+        },
+        {
+                "_id" : "UAH",
+                "value" : {
+                        "qty" : 8,
+                        "balance" : 40471.84,
+                        "avarage" : 5058.98
+                }
+        },
+        {
+                "_id" : "NZD",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 5328.46,
+                        "avarage" : 5328.46
+                }
+        },
+        {
+                "_id" : "CDF",
+                "value" : {
+                        "qty" : 2,
+                        "balance" : 12228.8,
+                        "avarage" : 6114.4
+                }
+        },
+        {
+                "_id" : "PHP",
+                "value" : {
+                        "qty" : 24,
+                        "balance" : 118606.28,
+                        "avarage" : 4941.93
+                }
+        },
+        {
+                "_id" : "SEK",
+                "value" : {
+                        "qty" : 14,
+                        "balance" : 70840.19,
+                        "avarage" : 5060.01
+                }
+        },
+        {
+                "_id" : "MYR",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 4781.12,
+                        "avarage" : 4781.12
+                }
+        },
+        {
+                "_id" : "AMD",
+                "value" : {
+                        "qty" : 5,
+                        "balance" : 24609.33,
+                        "avarage" : 4921.87
+                }
+        },
+        {
+                "_id" : "NPR",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 5792.26,
+                        "avarage" : 5792.26
+                }
+        },
+        {
+                "_id" : "VND",
+                "value" : {
+                        "qty" : 8,
+                        "balance" : 36160.26,
+                        "avarage" : 4520.03
+                }
+        },
+        {
+                "_id" : "CNY",
+                "value" : {
+                        "qty" : 95,
+                        "balance" : 470700.38,
+                        "avarage" : 4954.74
+                }
+        },
+        {
+                "_id" : "THB",
+                "value" : {
+                        "qty" : 5,
+                        "balance" : 23021.96,
+                        "avarage" : 4604.39
+                }
+        },
+        {
+                "_id" : "MMK",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 4629.42,
+                        "avarage" : 4629.42
+                }
+        },
+        {
+                "_id" : "MWK",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 3574.42,
+                        "avarage" : 3574.42
+                }
+        },
+        {
+                "_id" : "GBP",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 6149.19,
+                        "avarage" : 6149.19
+                }
+        },
+        {
+                "_id" : "RWF",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 4632.88,
+                        "avarage" : 4632.88
+                }
+        },
+        {
+                "_id" : "MNT",
+                "value" : {
+                        "qty" : 4,
+                        "balance" : 21715.61,
+                        "avarage" : 5428.9
+                }
+        },
+        {
+                "_id" : "IRR",
+                "value" : {
+                        "qty" : 6,
+                        "balance" : 26504.24,
+                        "avarage" : 4417.37
+                }
+        },
+        {
+                "_id" : "EGP",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 5579.3,
+                        "avarage" : 5579.3
+                }
+        },
+        {
+                "_id" : "ZMW",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 5569.56,
+                        "avarage" : 5569.56
+                }
+        },
+        {
+                "_id" : "BOB",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 5263.3,
+                        "avarage" : 5263.3
+                }
+        },
+        {
+                "_id" : "NIO",
+                "value" : {
+                        "qty" : 2,
+                        "balance" : 9971.28,
+                        "avarage" : 4985.64
+                }
+        },
+        {
+                "_id" : "ISK",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 4316.41,
+                        "avarage" : 4316.41
+                }
+        },
+        {
+                "_id" : "KZT",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 3788.95,
+                        "avarage" : 3788.95
+                }
+        },
+        {
+                "_id" : "JPY",
+                "value" : {
+                        "qty" : 12,
+                        "balance" : 60944.74,
+                        "avarage" : 5078.73
+                }
+        },
+        {
+                "_id" : "NGN",
+                "value" : {
+                        "qty" : 6,
+                        "balance" : 24946.23,
+                        "avarage" : 4157.71
+                }
+        },
+        {
+                "_id" : "LYD",
+                "value" : {
+                        "qty" : 2,
+                        "balance" : 8764.99,
+                        "avarage" : 4382.5
+                }
+        },
+        {
+                "_id" : "COP",
+                "value" : {
+                        "qty" : 4,
+                        "balance" : 19746.73,
+                        "avarage" : 4936.68
+                }
+        },
+        {
+                "_id" : "VEF",
+                "value" : {
+                        "qty" : 2,
+                        "balance" : 8333.28,
+                        "avarage" : 4166.64
+                }
+        },
+        {
+                "_id" : "UZS",
+                "value" : {
+                        "qty" : 1,
+                        "balance" : 3573.03,
+                        "avarage" : 3573.03
+                }
+        },
+        {
+                "_id" : "CAD",
+                "value" : {
+                        "qty" : 11,
+                        "balance" : 58375.6,
+                        "avarage" : 5306.87
+                }
+        },
+        {
+                "_id" : "HRK",
+                "value" : {
+                        "qty" : 5,
+                        "balance" : 24354.82,
+                        "avarage" : 4870.96
+                }
+        },
+        {
+                "_id" : "PKR",
+                "value" : {
+                        "qty" : 4,
+                        "balance" : 18938,
+                        "avarage" : 4734.5
+                }
+        },
+        {
+                "_id" : "PEN",
+                "value" : {
+                        "qty" : 4,
+                        "balance" : 18644.94,
+                        "avarage" : 4661.23
+                }
+        },
+        {
+                "_id" : "KRW",
+                "value" : {
+                        "qty" : 2,
+                        "balance" : 13379.82,
+                        "avarage" : 6689.91
+                }
+        },
+        {
+                "_id" : "DOP",
+                "value" : {
+                        "qty" : 4,
+                        "balance" : 20674.74,
+                        "avarage" : 5168.69
+                }
+        },
+        {
+                "_id" : "XAF",
+                "value" : {
+                        "qty" : 3,
+                        "balance" : 14094.66,
+                        "avarage" : 4698.22
+                }
+        },
+        {
+                "_id" : "ILS",
+                "value" : {
+                        "qty" : 3,
+                        "balance" : 16295.49,
+                        "avarage" : 5431.83
+                }
+        },
+        {
+                "_id" : "HNL",
+                "value" : {
+                        "qty" : 3,
+                        "balance" : 16514.59,
+                        "avarage" : 5504.86
+                }
+        }
+]

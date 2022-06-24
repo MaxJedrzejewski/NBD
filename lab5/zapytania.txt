@@ -1,0 +1,34 @@
+zadanie1:
+curl -i -v -XPUT -d '{"var1": "1", "var2": 2, "var3": "raz", "var4":"dwa"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-1?returnbody=true
+curl -i -v -XPUT -d '{"var1": 3, "var2": 7.5, "var3": null, "var4":"trzy"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-2?returnbody=true
+curl -i -v -XPUT -d '{"var1": 0, "var2": "cztery", "var3": 11, "var4":2.75}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-3?returnbody=true
+curl -i -v -XPUT -d '{"var1": "zero", "var2": "raz", "var3": 9.9, "var4":3.3}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-4?returnbody=true
+curl -i -v -XPUT -d '{"var1": 22, "var2": 23, "var3": "osiem", "var4":"siedem"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-5?returnbody=true
+
+zadanie2:
+
+curl -i -v http://localhost:8098/types/default/buckets/s24209/keys/zad1-1 > /home/max/nbd/zad2.txt
+
+zadanie3:
+curl -i -v -XPUT -d '{"var1": "1", "var2": 2, "var3": "raz", "var4":"dwa", "var5": 0.01}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-1?returnbody=true
+
+zadanie4:
+curl -i -v -XPUT -d '{"var1": "1", "var2": 2, "var3": "raz", "var4":"dwa"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-1?returnbody=true
+
+zadanie5:
+curl -i -v -XPUT -d '{"var1": "1", "var2": 4, "var3": "raz", "var4":"dwa"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-1?returnbody=true
+
+zadanie6:
+curl -i -v -XDELETE http://localhost:8098/types/default/buckets/s24209/keys/zad1-1
+
+zadanie7:
+curl -i -v http://localhost:8098/types/default/buckets/s24209/keys/zad1-1 > /home/max/nbd/zad7.txt
+
+zadanie8:
+curl -i -v -XPOST -d '{"var": "asd"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad8?returnbody=true
+
+zadanie9:
+curl -i -v http://localhost:8098/types/default/buckets/s24209/keys/zad8 > /home/max/nbd/zad9.txt
+
+zadanie10:
+curl -i -v -XDELETE http://localhost:8098/types/default/buckets/s24209/keys/zad8

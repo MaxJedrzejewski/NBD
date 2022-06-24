@@ -1,0 +1,201 @@
+* Connection #0 to host localhost left intact
+{"var1": "1", "var2": 2, "var3": "raz", "var4":"dwa"}root@max-virtual-machine:/home/max# 
+root@max-virtual-machine:/home/max# curl -i -v -XPUT -d '{"var1": "1", "var2": 2, "var3": "raz", "var4":"dwa"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-1?returnbody=true
+*   Trying 127.0.0.1:8098...
+* Connected to localhost (127.0.0.1) port 8098 (#0)
+> PUT /types/default/buckets/s24209/keys/zad1-1?returnbody=true HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.83.1
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 53
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgymDKBVI8ypz/ftqF5P9hYPBTzGBKZMpjZdgvpnmHDyLNAZHOWQ6VshcHSmUBAA==
+X-Riak-Vclock: a85hYGBgymDKBVI8ypz/ftqF5P9hYPBTzGBKZMpjZdgvpnmHDyLNAZHOWQ6VshcHSmUBAA==
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+< Link: </buckets/s24209>; rel="up"
+Link: </buckets/s24209>; rel="up"
+< Last-Modified: Thu, 23 Jun 2022 16:56:31 GMT
+Last-Modified: Thu, 23 Jun 2022 16:56:31 GMT
+< ETag: "6qZcYKnxd8GAUJkForGrz2"
+ETag: "6qZcYKnxd8GAUJkForGrz2"
+< Date: Thu, 23 Jun 2022 16:56:31 GMT
+Date: Thu, 23 Jun 2022 16:56:31 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 53
+Content-Length: 53
+
+
+* Connection #0 to host localhost left intact
+{"var1": "1", "var2": 2, "var3": "raz", "var4":"dwa"}root@max-virtual-machine:/home/max# ^C
+root@max-virtual-machine:/home/max# curl -i -v -XPUT -d '{"var1": 3, "var2": 7.5, "var3": null, "var4":"trzy"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-2?returnbody=true
+*   Trying 127.0.0.1:8098...
+* Connected to localhost (127.0.0.1) port 8098 (#0)
+> PUT /types/default/buckets/s24209/keys/zad1-2?returnbody=true HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.83.1
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 53
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/ftoFX5djYPBTzGBKZMxjZeCR1LzDlwUA
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/ftoFX5djYPBTzGBKZMxjZeCR1LzDlwUA
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+< Link: </buckets/s24209>; rel="up"
+Link: </buckets/s24209>; rel="up"
+< Last-Modified: Thu, 23 Jun 2022 17:04:12 GMT
+Last-Modified: Thu, 23 Jun 2022 17:04:12 GMT
+< ETag: "45sk5DZBzTiWokEBSxSyxm"
+ETag: "45sk5DZBzTiWokEBSxSyxm"
+< Date: Thu, 23 Jun 2022 17:04:12 GMT
+Date: Thu, 23 Jun 2022 17:04:12 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 53
+Content-Length: 53
+
+* Connection #0 to host localhost left intact
+{"var1": 3, "var2": 7.5, "var3": null, "var4":"trzy"}root@max-virtual-machine:/h "var2": 999, "var3": true, "var4":null}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-3?returnbody=true
+*   Trying 127.0.0.1:8098...
+* Connected to localhost (127.0.0.1) port 8098 (#0)
+> PUT /types/default/buckets/s15295/keys/zad1-3?returnbody=true HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.83.1
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 63
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/ftoFvW1gYPBTzGBKZMxjZbgqrXmHLwsA
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/ftoFvW1gYPBTzGBKZMxjZbgqrXmHLwsA
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+< Link: </buckets/s15295>; rel="up"
+Link: </buckets/s15295>; rel="up"
+< Last-Modified: Thu, 23 Jun 2022 17:16:05 GMT
+Last-Modified: Thu, 23 Jun 2022 17:16:05 GMT
+< ETag: "3xS599fbL8SLYeu4qgE418"
+ETag: "3xS599fbL8SLYeu4qgE418"
+< Date: Thu, 23 Jun 2022 17:16:05 GMT
+Date: Thu, 23 Jun 2022 17:16:05 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 63
+Content-Length: 63
+
+root@max-virtual-machine:/home/max# curl -i -v -XPUT -d '{"var1": 0, "var2": "cztery", "var3": 11, "var4":2.75}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-3?returnbody=true
+*   Trying 127.0.0.1:8098...
+* Connected to localhost (127.0.0.1) port 8098 (#0)
+> PUT /types/default/buckets/s24209/keys/zad1-3?returnbody=true HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.83.1
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 54
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/ftoFPVrEwOCnmMGUyJjHyhAso3mHLwsA
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/ftoFPVrEwOCnmMGUyJjHyhAso3mHLwsA
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+< Link: </buckets/s24209>; rel="up"
+Link: </buckets/s24209>; rel="up"
+< Last-Modified: Thu, 23 Jun 2022 17:18:11 GMT
+Last-Modified: Thu, 23 Jun 2022 17:18:11 GMT
+< ETag: "6KEHK0r8GPuYhYl12mQh5R"
+ETag: "6KEHK0r8GPuYhYl12mQh5R"
+< Date: Thu, 23 Jun 2022 17:18:11 GMT
+Date: Thu, 23 Jun 2022 17:18:11 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 54
+Content-Length: 54
+
+* Connection #0 to host localhost left intact
+{"var1": 0, "var2": "cztery", "var3": 11, "var4":2.75}root@max-virtual-machine:/home/max# 
+root@max-virtual-machine:/home/max# curl -i -v -XPUT -d '{"var1": "zero", "var2": "raz", "var3": 9.9, "var4":3.3}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-4?returnbody=true
+*   Trying 127.0.0.1:8098...
+* Connected to localhost (127.0.0.1) port 8098 (#0)
+> PUT /types/default/buckets/s24209/keys/zad1-4?returnbody=true HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.83.1
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 56
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/ftqFhN5mYPBTzGBKZMxjZZgto3mHLwsA
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/ftqFhN5mYPBTzGBKZMxjZZgto3mHLwsA
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+< Link: </buckets/s24209>; rel="up"
+Link: </buckets/s24209>; rel="up"
+< Last-Modified: Thu, 23 Jun 2022 17:19:23 GMT
+Last-Modified: Thu, 23 Jun 2022 17:19:23 GMT
+< ETag: "ARJejlPsqF6PloE9rTMql"
+ETag: "ARJejlPsqF6PloE9rTMql"
+< Date: Thu, 23 Jun 2022 17:19:23 GMT
+Date: Thu, 23 Jun 2022 17:19:23 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 56
+Content-Length: 56
+
+* Connection #0 to host localhost left intact
+{"var1": "zero", "var2": "raz", "var3": 9.9, "var4":3.3}root@max-virtual-machine:/home/max# 
+root@max-virtual-machine:/home/max# curl -i -v -XPUT -d '{"var1": 22, "var2": 23, "var3": "osiem", "var4":"siedem"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-5?returnbody=true
+*   Trying 127.0.0.1:8098...
+* Connected to localhost (127.0.0.1) port 8098 (#0)
+> PUT /types/default/buckets/s24209/keys/zad1-5?returnbody=true HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.83.1
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 58
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/ftqFhN5mYPBTymBKZMxjZdgho3mHLwsA
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/ftqFhN5mYPBTymBKZMxjZdgho3mHLwsA
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+< Link: </buckets/s24209>; rel="up"
+Link: </buckets/s24209>; rel="up"
+< Last-Modified: Thu, 23 Jun 2022 17:19:52 GMT
+Last-Modified: Thu, 23 Jun 2022 17:19:52 GMT
+< ETag: "73jidXL3qasPjsJ5VDHwtE"
+ETag: "73jidXL3qasPjsJ5VDHwtE"
+< Date: Thu, 23 Jun 2022 17:19:52 GMT
+Date: Thu, 23 Jun 2022 17:19:52 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 58
+Content-Length: 58

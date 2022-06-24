@@ -1,0 +1,3 @@
+> db.newCollection.find({})
+{ "_id" : "Male", "value" : { "count" : 4953, "height" : 166.7387865939836, "weight" : 70.01279224712299 } }
+{ "_id" : "Female", "value" : { "count" : 4925, "height" : 166.81260913705572, "weight" : 70.11331573604069 } }

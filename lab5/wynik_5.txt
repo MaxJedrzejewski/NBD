@@ -1,0 +1,33 @@
+* Connection #0 to host localhost left intact
+{"var1": "1", "var2": 2, "var3": "raz", "var4":"dwa"}root@max-virtual-machine:/home/max# 
+root@max-virtual-machine:/home/max# curl -i -v -XPUT -d '{"var1": "1", "var2": 4, "var3": "raz", "var4":"dwa"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s24209/keys/zad1-1?returnbody=true
+*   Trying 127.0.0.1:8098...
+* Connected to localhost (127.0.0.1) port 8098 (#0)
+> PUT /types/default/buckets/s24209/keys/zad1-1?returnbody=true HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.83.1
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 53
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgymDKBVIcypz/ftqF5CzPYEpkymNlsBfXvMMHkeKBSOX/YWDwUwRKswKlDRSB0lkA
+X-Riak-Vclock: a85hYGBgymDKBVIcypz/ftqF5CzPYEpkymNlsBfXvMMHkeKBSOX/YWDwUwRKswKlDRSB0lkA
+< Vary: Accept-Encoding
+Vary: Accept-Encoding
+< Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+< Link: </buckets/s24209>; rel="up"
+Link: </buckets/s24209>; rel="up"
+< Last-Modified: Thu, 23 Jun 2022 17:38:56 GMT
+Last-Modified: Thu, 23 Jun 2022 17:38:56 GMT
+< ETag: "38huA9xIWrvNg0xSFLOpiD"
+ETag: "38huA9xIWrvNg0xSFLOpiD"
+< Date: Thu, 23 Jun 2022 17:38:56 GMT
+Date: Thu, 23 Jun 2022 17:38:56 GMT
+< Content-Type: application/json
+Content-Type: application/json
+< Content-Length: 53
+Content-Length: 53

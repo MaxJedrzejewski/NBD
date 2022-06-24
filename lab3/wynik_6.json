@@ -1,0 +1,1327 @@
+﻿[
+  {
+    "n": {
+"identity": 11,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1964,
+"name": "Keanu Reeves"
+      }
+    },
+    "count": 7
+  },
+  {
+    "n": {
+"identity": 12,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Carrie-Anne Moss"
+      }
+    },
+    "count": 3
+  },
+  {
+    "n": {
+"identity": 13,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Laurence Fishburne"
+      }
+    },
+    "count": 3
+  },
+  {
+    "n": {
+"identity": 14,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    },
+    "count": 5
+  },
+  {
+    "n": {
+"identity": 18,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1978,
+"name": "Emil Eifrem"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 22,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1975,
+"name": "Charlize Theron"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 23,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1940,
+"name": "Al Pacino"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 26,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Tom Cruise"
+      }
+    },
+    "count": 3
+  },
+  {
+    "n": {
+"identity": 27,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1937,
+"name": "Jack Nicholson"
+      }
+    },
+    "count": 5
+  },
+  {
+    "n": {
+"identity": 28,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Demi Moore"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 29,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1958,
+"name": "Kevin Bacon"
+      }
+    },
+    "count": 3
+  },
+  {
+    "n": {
+"identity": 30,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1966,
+"name": "Kiefer Sutherland"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 31,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Noah Wyle"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 32,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Cuba Gooding Jr."
+      }
+    },
+    "count": 4
+  },
+  {
+    "n": {
+"identity": 33,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1957,
+"name": "Kevin Pollak"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 34,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1943,
+"name": "J.T. Walsh"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 35,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "James Marshall"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 36,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1948,
+"name": "Christopher Guest"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 38,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Aaron Sorkin"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 40,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1957,
+"name": "Kelly McGillis"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 41,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1959,
+"name": "Val Kilmer"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 42,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Anthony Edwards"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 43,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1933,
+"name": "Tom Skerritt"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 44,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Meg Ryan"
+      }
+    },
+    "count": 5
+  },
+  {
+    "n": {
+"identity": 48,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1969,
+"name": "Renee Zellweger"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 49,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Kelly Preston"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 50,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1974,
+"name": "Jerry O'Connell"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 51,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "Jay Mohr"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 52,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Bonnie Hunt"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 53,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Regina King"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 54,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1996,
+"name": "Jonathan Lipnicki"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 57,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "River Phoenix"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 58,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Corey Feldman"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 59,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1972,
+"name": "Wil Wheaton"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 60,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1966,
+"name": "John Cusack"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 61,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1942,
+"name": "Marshall Bell"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 63,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1963,
+"name": "Helen Hunt"
+      }
+    },
+    "count": 3
+  },
+  {
+    "n": {
+"identity": 64,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1963,
+"name": "Greg Kinnear"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 67,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Annabella Sciorra"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 68,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1929,
+"name": "Max von Sydow"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 69,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1942,
+"name": "Werner Herzog"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 70,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1951,
+"name": "Robin Williams"
+      }
+    },
+    "count": 3
+  },
+  {
+    "n": {
+"identity": 73,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "Ethan Hawke"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 74,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Rick Yune"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 75,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1940,
+"name": "James Cromwell"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 78,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Parker Posey"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 79,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1973,
+"name": "Dave Chappelle"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 80,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Steve Zahn"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 81,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "count": 12
+  },
+  {
+    "n": {
+"identity": 84,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Rita Wilson"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 85,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1953,
+"name": "Bill Pullman"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 86,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1949,
+"name": "Victor Garber"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 87,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Rosie O'Donnell"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 90,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Nathan Lane"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 92,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1948,
+"name": "Billy Crystal"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 93,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Carrie Fisher"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 94,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1949,
+"name": "Bruno Kirby"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 96,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1977,
+"name": "Liv Tyler"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 98,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "Brooke Langton"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 99,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1930,
+"name": "Gene Hackman"
+      }
+    },
+    "count": 3
+  },
+  {
+    "n": {
+"identity": 100,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Orlando Jones"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 103,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1974,
+"name": "Christian Bale"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 104,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1954,
+"name": "Zach Grenier"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 108,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1930,
+"name": "Richard Harris"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 109,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1930,
+"name": "Clint Eastwood"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 111,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1947,
+"name": "Takeshi Kitano"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 112,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Dina Meyer"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 113,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1958,
+"name": "Ice-T"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 116,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1966,
+"name": "Halle Berry"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 117,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1949,
+"name": "Jim Broadbent"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 122,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1939,
+"name": "Ian McKellen"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 123,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1976,
+"name": "Audrey Tautou"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 124,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Paul Bettany"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 127,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1981,
+"name": "Natalie Portman"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 128,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1946,
+"name": "Stephen Rea"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 129,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1940,
+"name": "John Hurt"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 130,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Ben Miles"
+      }
+    },
+    "count": 3
+  },
+  {
+    "n": {
+"identity": 132,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1985,
+"name": "Emile Hirsch"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 133,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "John Goodman"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 134,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1946,
+"name": "Susan Sarandon"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 135,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1966,
+"name": "Matthew Fox"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 136,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1980,
+"name": "Christina Ricci"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 137,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1982,
+"name": "Rain"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 139,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Naomie Harris"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 141,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1957,
+"name": "Michael Clarke Duncan"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 142,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1953,
+"name": "David Morse"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 143,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Sam Rockwell"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 144,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1955,
+"name": "Gary Sinise"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 145,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1959,
+"name": "Patricia Clarkson"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 148,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1938,
+"name": "Frank Langella"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 149,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1969,
+"name": "Michael Sheen"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 150,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Oliver Platt"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 152,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1944,
+"name": "Danny DeVito"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 153,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "John C. Reilly"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 155,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1950,
+"name": "Ed Harris"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 156,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1955,
+"name": "Bill Paxton"
+      }
+    },
+    "count": 3
+  },
+  {
+    "n": {
+"identity": 158,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Philip Seymour Hoffman"
+      }
+    },
+    "count": 2
+  },
+  {
+    "n": {
+"identity": 165,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1946,
+"name": "Diane Keaton"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 170,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Julia Roberts"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1954,
+"name": "Madonna"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 174,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Geena Davis"
+      }
+    },
+    "count": 1
+  },
+  {
+    "n": {
+"identity": 175,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1963,
+"name": "Lori Petty"
+      }
+    },
+    "count": 1
+  }
+]

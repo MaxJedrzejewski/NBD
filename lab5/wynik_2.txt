@@ -1,0 +1,20 @@
+   Trying 127.0.0.1:8098...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to localhost (127.0.0.1) port 8098 (#0)
+> GET /types/default/buckets/s24209/keys/zad1-1 HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.83.1
+> Accept: */*
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgymDKBVI8ypz/ftqF5P9hYPBTzGBKZMpjZdgvpnmHDyLNAZHOWQ6VshcHSmUBAA==
+< Vary: Accept-Encoding
+< Server: MochiWeb/2.20.0 WebMachine/1.11.1 (greased slide to failure)
+< Link: </buckets/s24209>; rel="up"
+< Last-Modified: Thu, 23 Jun 2022 16:56:31 GMT
+< ETag: "6qZcYKnxd8GAUJkForGrz2"
+< Date: Thu, 23 Jun 2022 17:28:26 GMT
+< Content-Type: application/json
+< Content-Length: 53
