@@ -1,1 +1,1 @@
-"# NBD" 
+Nierelacyjne bazy danych
